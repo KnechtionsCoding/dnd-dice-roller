@@ -1,0 +1,20 @@
+ {
+    "perception" : 
+        {
+            "diceToRoll" : 20,
+            "numberOfDice": 50,
+            "modifier" : 6
+        },
+    "dexterity" : 
+        {
+            "diceToRoll" : 20,
+            "numberOfDice": 1,
+            "modifier" : 5
+        },
+    "stealth" : 
+        {
+            "dice" : 20,
+            "numberOfDice": 1,
+            "modifier" : 9
+        }
+}
